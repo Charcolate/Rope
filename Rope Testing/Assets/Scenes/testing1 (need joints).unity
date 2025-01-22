@@ -149,7 +149,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -166,7 +166,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.019999972, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01923757, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000046929545, y: -0.01923757, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -220,7 +220,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -237,7 +237,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01747709, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000023464772, y: -0.017477116, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -291,7 +291,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -362,7 +362,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -433,7 +433,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -450,7 +450,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01684729, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0, y: -0.016847264, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -504,7 +504,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -521,7 +521,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059792, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000046929545, y: -0.016059766, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -575,7 +575,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -592,7 +592,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.019237518, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.000000009385909, y: -0.01923757, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -646,7 +646,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -663,7 +663,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000061, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.019237366, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0, y: -0.019237313, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -717,7 +717,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -788,7 +788,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -859,7 +859,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -876,7 +876,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016847316, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.000000009385909, y: -0.016847316, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -930,7 +930,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1001,7 +1001,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1018,7 +1018,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016847264, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0, y: -0.016847316, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -1072,7 +1072,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1143,7 +1143,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1160,7 +1160,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01684729, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0, y: -0.016847342, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -1214,7 +1214,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1231,7 +1231,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.014375603, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.000000009385909, y: -0.0143755, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -1285,7 +1285,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1356,7 +1356,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1373,7 +1373,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000061, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.019237366, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.000000009385909, y: -0.019237366, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -1427,7 +1427,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1498,7 +1498,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1515,7 +1515,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01923757, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.000000009385909, y: -0.01923757, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -1559,7 +1559,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059842, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.000000009385909, y: -0.016059842, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -1608,7 +1608,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1640,7 +1640,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1711,7 +1711,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1782,7 +1782,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1858,6 +1858,160 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &863401698
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 863401694}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0, y: 0.04, z: 2.33}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &864745481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 864745485}
+  - component: {fileID: 864745484}
+  - component: {fileID: 864745483}
+  - component: {fileID: 864745482}
+  - component: {fileID: 864745486}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &864745482
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864745481}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &864745483
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864745481}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &864745484
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864745481}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &864745485
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864745481}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -10.21, z: -0.93}
+  m_LocalScale: {x: 17.79, y: 17.79, z: 17.79}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &864745486
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 864745481}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &942568893 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8989974151466276958, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
@@ -1885,7 +2039,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -1902,7 +2056,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.019237468, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.000000009385909, y: -0.01923757, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -1956,7 +2110,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2027,7 +2181,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2044,7 +2198,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059741, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.000000009385909, y: -0.016059842, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -2156,13 +2310,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 991430188}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.1503498, z: -0, w: 0.98863286}
   m_LocalPosition: {x: 0, y: 1, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 17.294, z: 0}
 --- !u!1 &1063475150 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7098428836518392919, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
@@ -2190,7 +2344,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2207,7 +2361,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.018003607, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000046929545, y: -0.018003607, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -2261,7 +2415,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2278,7 +2432,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016847294, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 5.866193e-10, y: -0.016847294, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -2332,7 +2486,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2403,7 +2557,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2420,7 +2574,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059805, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0, y: -0.016059792, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -2474,7 +2628,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2491,7 +2645,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01923749, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 2.9330965e-10, y: -0.01923749, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -2545,7 +2699,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2616,7 +2770,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2687,7 +2841,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2704,7 +2858,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01923757, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.000000009385909, y: -0.01923757, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -2758,7 +2912,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2775,7 +2929,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01923748, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000023464772, y: -0.019237492, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -2923,7 +3077,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -2984,6 +3138,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24d0f939c2c2ba744b744a45db4ed08f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 25
+  character: {fileID: 1266611412}
 --- !u!59 &1266611417
 HingeJoint:
   m_ObjectHideFlags: 0
@@ -3045,7 +3201,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -3077,7 +3233,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -3094,7 +3250,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059792, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.000000009385909, y: -0.016059792, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3143,7 +3299,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.9058e-10
+      value: 0.000000009782749
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3151,19 +3307,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.000000022867992
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.91068447
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.41310275
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalRotation.z
@@ -3175,7 +3331,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -48.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -3196,6 +3352,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       insertIndex: -1
       addedObject: {fileID: 863401696}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 863401698}
     - targetCorrespondingSourceObject: {fileID: 2399756891057174424, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1141592971}
@@ -3534,7 +3693,7 @@ PrefabInstance:
       addedObject: {fileID: 1414500798}
     - targetCorrespondingSourceObject: {fileID: -2780443879525823159, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1414500797}
+      addedObject: {fileID: 1414500802}
     - targetCorrespondingSourceObject: {fileID: -5090750041453428651, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1266611418}
@@ -3572,23 +3731,11 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &1414500797
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1414500792}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 88484014f9a4cbc46a733e4c0545abfd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!59 &1414500798
 HingeJoint:
   m_ObjectHideFlags: 0
@@ -3601,7 +3748,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.009999999, z: 0}
   m_Axis: {x: 1, y: 0, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: -5.9058e-10, y: 0.25401753, z: 7.6205273}
+  m_ConnectedAnchor: {x: -5.73378, y: 0.25401753, z: 5.0195823}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3628,6 +3775,20 @@ HingeJoint:
   m_EnablePreprocessing: 1
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &1414500802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1414500792}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24d0f939c2c2ba744b744a45db4ed08f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 25
+  character: {fileID: 1414500792}
 --- !u!1 &1418285330 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -5707941615110633464, guid: e16ccf1c4e929fa46b8df7feb3e51d10, type: 3}
@@ -3655,7 +3816,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -3672,7 +3833,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000061, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059741, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.000000009385909, y: -0.016059741, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3726,7 +3887,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -3743,7 +3904,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016847264, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.000000009385909, y: -0.016847264, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3797,7 +3958,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -3814,7 +3975,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059792, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0, y: -0.016059741, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3868,7 +4029,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -3885,7 +4046,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016847264, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.0000000046929545, y: -0.016847162, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3939,7 +4100,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -3956,7 +4117,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.019999987, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.019237492, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.0000000046929545, y: -0.019237518, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -4010,7 +4171,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4081,7 +4242,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4152,7 +4313,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4223,7 +4384,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4240,7 +4401,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01684729, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.0000000046929545, y: -0.01684729, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -4294,7 +4455,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4311,7 +4472,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.017477037, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000023464772, y: -0.017477037, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -4365,7 +4526,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4436,7 +4597,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4507,7 +4668,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4578,7 +4739,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4595,7 +4756,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016847303, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000023464772, y: -0.016847277, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -4649,7 +4810,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4666,7 +4827,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016847264, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: 0.0000000046929545, y: -0.016847264, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -4720,7 +4881,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4737,7 +4898,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.01684729, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.0000000046929545, y: -0.016847316, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -4791,7 +4952,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
@@ -4808,7 +4969,7 @@ HingeJoint:
   m_Anchor: {x: 0, y: 0.020000001, z: 0}
   m_Axis: {x: 1, y: 15.65, z: 0}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 0, y: -0.016059792, z: 9.313226e-10}
+  m_ConnectedAnchor: {x: -0.0000000046929545, y: -0.016059818, z: 9.313226e-10}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -4842,3 +5003,4 @@ SceneRoots:
   - {fileID: 991430191}
   - {fileID: 1199672872}
   - {fileID: 1409649231}
+  - {fileID: 864745485}
